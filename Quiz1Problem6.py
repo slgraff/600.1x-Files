@@ -1,4 +1,5 @@
 # Quiz1Problem6.py
+# Quiz1Problem6.py
 # edX MITx 6.00.1x
 # Introduction to Computer Science and Programming Using Python
 # Quiz 1, Problem 6
