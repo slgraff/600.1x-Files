@@ -1,0 +1,6 @@
+#Python program to find that u r eligible for vote in India or not.
+a = print("Enter a number:")
+if a>=18:
+    print("You are eligible to vote")
+else:
+    print("You are not eligible to vote
